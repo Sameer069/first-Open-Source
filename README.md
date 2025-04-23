@@ -64,7 +64,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Sameer das" />
                     <br />
                     <sub>
-                        <b>Sameer Das</b>
+                        <b>Sameer </b>
                     </sub>
                 </a>
             </td>

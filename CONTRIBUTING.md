@@ -30,7 +30,7 @@
                         alt="Sameer das" />
                     <br />
                     <sub>
-                        <b>Sameer Das</b>
+                        <b>Sameer</b>
                     </sub>
                 </a>
             </td>
