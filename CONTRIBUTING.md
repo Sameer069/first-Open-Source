@@ -24,6 +24,16 @@
             <sub><b>Ali Solanki</b></sub>
         </a>
     </td>
+     <td align="center">
+                <a href="https://github.com/Sameer069">
+                    <img src="https://avatars.githubusercontent.com/u/112536688?v=4" width="100px;"
+                        alt="Sameer das" />
+                    <br />
+                    <sub>
+                        <b>Sameer Das</b>
+                    </sub>
+                </a>
+            </td>
            <td align="center">
                 <a href="https://github.com/aryanmangrule402/">
                     <img src="https://avatars.githubusercontent.com/u/132284891?v=4" width="100px;" alt="Ali Solanki"/>
